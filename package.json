@@ -1,0 +1,34 @@
+{
+  "name": "@baberat/eslint-config-beita",
+  "version": "1.0.0",
+  "description": "ESLint config for React/Vue/TypeScript projects",
+  "main": "index.js",
+  "files": ["index", "base", "react", "vue", "typescript"],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.25.0",
+    "@typescript-eslint/parser": "^5.25.0",
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-vue": "^9.0.1",
+    "prettier": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babe-rat/eslint-config-beita.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "keywords": ["eslint"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babe-rat/eslint-config-beita/issues"
+  },
+  "homepage": "https://github.com/babe-rat/eslint-config-beita#readme"
+}
