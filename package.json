@@ -1,6 +1,6 @@
 {
   "name": "@baberat/eslint-config-beita",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint config for React/Vue/TypeScript projects",
   "main": "index.js",
   "files": ["index.js", "base.js", "react.js", "vue.js", "typescript.js"],
