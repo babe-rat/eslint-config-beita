@@ -17,6 +17,7 @@ module.exports = {
         'no-new': 'off',
         'no-shadow': 'off',
         'no-bitwise': 'off',
+        'no-useless-return': 'off',
         'func-names': 'off',
         'no-plusplus': 'off',
         'default-case': 'off',
